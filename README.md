@@ -5,3 +5,8 @@ A web app that uses [AngularDart](https://webdev.dartlang.org/angular) and
 
 Created from templates made available by Stagehand under a BSD-style
 [license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+
+В момент создания репозитория проект размещался так:
+
+/Users/eliasgoss/Yandex.Disk.localized/dart/todo
+
